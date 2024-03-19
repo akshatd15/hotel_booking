@@ -29,3 +29,4 @@ if hotel.available():
 
 else:
     print("Hotel is not free.")
+
